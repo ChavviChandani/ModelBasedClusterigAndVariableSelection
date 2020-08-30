@@ -2,7 +2,7 @@ print("Fop and Murphy Code starting")
 #Reading csv file
 library(readr)
 Learner_Pattern_Anon <- read_csv("Learner_Pattern_Anon.csv")
-View(Learner_Pattern_Anon)
+# View(Learner_Pattern_Anon)
 
 #Importing csv to dataframe 
 library(rio)
