@@ -1,3 +1,4 @@
+print("Fop and Murphy Code starting")
 #Reading csv file
 library(readr)
 Learner_Pattern_Anon <- read_csv("Learner_Pattern_Anon.csv")
